@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MLflow (can be large — track only structure, not run artifacts)
+mlruns/
+
+# Large model files (optional: comment out if you want to track models)
+outputs/models/*.pkl
+
+# Data (raw downloads — reproducible via pipeline)
+data/BBBP.csv
+data/delaney-processed.csv

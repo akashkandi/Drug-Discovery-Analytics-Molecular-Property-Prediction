@@ -1,0 +1,4 @@
+model,cv_rmse,test_rmse,test_mae,test_r2
+LightGBM Regressor,0.6543,0.6474,0.4859,0.8974
+XGBoost Regressor,0.6804,0.6934,0.4803,0.8823
+Ridge Regression,1.0966,0.9885,0.7660,0.7608
