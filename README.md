@@ -283,16 +283,4 @@ The most predictive molecular features for BBB permeability:
 
 ---
 
-## References
 
-1. Wu, Z. et al. (2018). MoleculeNet: a benchmark for molecular machine learning. *Chemical Science*, 9(2), 513–530.
-2. Delaney, J.S. (2004). ESOL: Estimating aqueous solubility directly from molecular structure. *J. Chem. Inf. Comput. Sci.*, 44(3), 1000–1005.
-3. Rogers, D. & Hahn, M. (2010). Extended-connectivity fingerprints. *J. Chem. Inf. Model.*, 50(5), 742–754.
-4. Lundberg, S.M. & Lee, S.I. (2017). A unified approach to interpreting model predictions. *NeurIPS 2017*, 30.
-5. Lipinski, C.A. et al. (1997). Experimental and computational approaches to estimate solubility and permeability in drug discovery. *Adv. Drug Deliv. Rev.*, 23(1-3), 3–25.
-
----
-
-## License
-
-MIT License — see LICENSE file.
